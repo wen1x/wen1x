@@ -1,3 +1,11 @@
+<img src="ttps://media.discordapp.net/attachments/635625973764849684/938464403836268574/IMG_7439.png?width=407&height=358">
+
+
+
+
+
+
+
 sup Im wen1x
 Im currently learning C/C++ and Python
 
