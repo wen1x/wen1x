@@ -1,5 +1,9 @@
+
+___________________________________________________________________
+
 Hallo im a 17yo dev, actually studying software engineer 🖥
 Languages: Portuguese, English and i learning german 📚
+____________________________________________________________________
 
 OS: Windows
 
