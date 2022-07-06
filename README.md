@@ -3,7 +3,7 @@ ___________________________________________________________________
 
 Hei, jeg er 17 år og studerer informasjonssikkerhet og programmering 🖥
 
-Språk: Portugisisk, engelsk og å lære norsk 📚
+Språk: norsk 
 ____________________________________________________________________
 
 OS: Windows
