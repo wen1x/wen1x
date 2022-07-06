@@ -1,9 +1,9 @@
 
 ___________________________________________________________________
 
-Hello im a 17yo, actually studying software engineer 🖥
+Hei, jeg er 17 år og studerer informasjonssikkerhet og programmering 🖥
 
-Languages: Portuguese, English and i learning german 📚
+Språk: Portugisisk, engelsk og å lære norsk 📚
 ____________________________________________________________________
 
 OS: Windows
