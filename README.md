@@ -1,9 +1,9 @@
 
 ___________________________________________________________________
 
-Hei, jeg er 17 år og studerer informasjonssikkerhet og programmering 🖥
+Hello, I'm 18 years old and I'm studying information security and programming 🖥
 
-Språk: norsk 
+Language: Portuguese, English and German
 ____________________________________________________________________
 
 OS: Windows
