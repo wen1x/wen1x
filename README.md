@@ -1,9 +1,9 @@
 
 ___________________________________________________________________
 
-Hello, I'm 18 years old and I'm studying information security and programming 🖥
+Hello, I'm 19 years old and I'm studying pentest and programming 🖥
 
-Language: Portuguese, English and German
+Language: Portuguese, English and little bit German
 ____________________________________________________________________
 
 OS: Windows
